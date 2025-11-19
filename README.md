@@ -169,9 +169,3 @@ Then test /api/profile and /api/logout.
 📄 License
 
 This project is open-source and available under the MIT License.
-
-If you'd like, I can also:
-
-✅ generate the same README as a PDF,
-✅ add OpenAPI/Swagger docs,
-✅ or generate controller + route + migration code for the API.
